@@ -1,0 +1,1 @@
+AvgCriteria = (employee_survey[EnvironmentSatisfaction]+employee_survey[JobSatisfaction]+employee_survey[WorkLifeBalance])/3
